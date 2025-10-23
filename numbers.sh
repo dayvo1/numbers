@@ -7,7 +7,7 @@
 #Determine whether the current number is even or odd and print the required information on a new line
 
 echo "Please enter a positive integer:"
-read number 
+read -r number 
 
 for (( i=1; i<=number; i++ ))
 do
