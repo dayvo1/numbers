@@ -1,10 +1,10 @@
 # README for Numbers Script
 
 ## Author Information
-- **Name:** [Your Full Name]  
-- **Course:** [Course Number and Name]  
-- **Assignment:** Numbers Script (Odd/Even Classification)  
-- **Date:** [Date of Completion]  
+- **Name:** David Gonzalez 
+- **Course:** CPSC-298-01
+- **Assignment:** Numbers Script (Odd/Even Classification)
+- **Date:** October 22, 2025
 
 ## Program Description
 This script prompts the user to enter a positive integer and then prints all integers from **1** up to and including that number. Each number is labeled as **“Odd”** or **“Even.”**  
@@ -77,9 +77,11 @@ You should also verify:
 
 ## Challenges and Solutions
 [Optional: Describe any challenges you encountered while creating this script and how you solved them. This could include debugging issues, understanding regular expressions, or Git workflow problems.]
+- It took me a second to figure out the for loop syntax.
 
 ## Resources
 [List any resources you used (class slides, ChatGPT, etc.). Please refer to the course syllabus for more details on citations.]
+- I used the class slides
 
 ## License
 This project is part of coursework for Chapman University and is intended for educational purposes.
